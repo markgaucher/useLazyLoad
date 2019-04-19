@@ -1,2 +1,0 @@
-# useLazyLoad
-Created with CodeSandbox
